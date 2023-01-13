@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "sumanth-laila",
+	"author": "sumanth laila",
 	"dependencies": {
 		"express": "^4.18.2"
 	},
